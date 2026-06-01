@@ -1,1 +1,1 @@
-# PawCho_Zad2
+Zrzuty ekranu znajdują się w folderze zrzuty
