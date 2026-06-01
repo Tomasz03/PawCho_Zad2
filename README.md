@@ -1,1 +1,2 @@
-Zrzuty ekranu znajdują się w folderze zrzuty
+Zrzuty ekranu znajdują się w folderze zrzuty test1
+
